@@ -1,1 +1,1 @@
-# Multillingual-Semantic-Similarity-Hindi-
+# semantic_similarity
