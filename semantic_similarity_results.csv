@@ -1,0 +1,11 @@
+sentence1,sentence2,sentence1_hi,sentence2_hi,similarity_score,cosine_similarity
+A plane is taking off.,An air plane is taking off.,एक विमान उतार रहा है।,एक हवाई विमान उतार रहा है।,5.0,0.9662549
+A man is playing a large flute.,A man is playing a flute.,एक आदमी एक बड़ी बांसुरी बजा रहा है।,एक आदमी एक बांसुरी बजा रहा है।,3.8,0.9856154
+A man is spreading shreded cheese on a pizza.,A man is spreading shredded cheese on an uncooked pizza.,एक आदमी पिज्जा पर कटा हुआ पनीर फैला रहा है।,एक आदमी एक बिना पके हुए पिज्जा पर कटा हुआ पनीर फैला रहा है।,3.8,0.9627232
+Three men are playing chess.,Two men are playing chess.,तीन आदमी शतरंज खेल रहे हैं।,दो आदमी शतरंज खेल रहे हैं।,2.6,0.9863792
+A man is playing the cello.,A man seated is playing the cello.,एक आदमी सेलो खेल रहा है।,बैठा एक आदमी सेलो खेल रहा है।,4.25,0.96699893
+Some men are fighting.,Two men are fighting.,कुछ आदमी लड़ रहे हैं।,दो आदमी लड़ रहे हैं।,4.25,0.95308316
+A man is smoking.,A man is skating.,एक आदमी धूम्रपान कर रहा है।,एक आदमी स्केटिंग कर रहा है।,0.5,0.87626064
+The man is playing the piano.,The man is playing the guitar.,आदमी पियानो बज रहा है।,आदमी गिटार बजा रहा है।,1.6,0.92598057
+A man is playing on a guitar and singing.,A woman is playing an acoustic guitar and singing.,एक आदमी एक गिटार पर खेल रहा है और गा रहा है।,एक महिला एक ध्वनिक गिटार और गायन खेल रही है।,2.2,0.87112135
+A person is throwing a cat on to the ceiling.,A person throws a cat on the ceiling.,एक व्यक्ति एक बिल्ली को छत पर फेंक रहा है।,एक व्यक्ति एक बिल्ली को छत पर फेंकता है।,5.0,0.9757781
